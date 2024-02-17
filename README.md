@@ -41,8 +41,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/Ecommerce-using-Stripe.git
-    cd Ecommerce-using-Stripe
+ git clone https://github.com/your-username/Ecommerce-using-Stripe.git 
+ cd Ecommerce-using-Stripe
 
    
 Install dependencies:
