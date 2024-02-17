@@ -10,6 +10,16 @@ Welcome to our E-commerce website! This project is a full-fledged online store d
 
 - **Stripe Payment Integration:** Enjoy secure and convenient transactions with Stripe, a trusted and widely used payment gateway.
 
+## Images
+
+![image](https://github.com/dhruv-kundu14/Ecommerce-using-Stripe/assets/81622271/919b3077-1ca8-45fe-a7c3-598c66f7cb4d)
+![image](https://github.com/dhruv-kundu14/Ecommerce-using-Stripe/assets/81622271/238f65dd-3570-42f0-8e06-4d0e83ed463b)
+![image](https://github.com/dhruv-kundu14/Ecommerce-using-Stripe/assets/81622271/798437ac-1475-4309-a36c-6c18d78e33a5)
+![image](https://github.com/dhruv-kundu14/Ecommerce-using-Stripe/assets/81622271/0031889b-201d-457d-852d-3d794c116f68)
+![image](https://github.com/dhruv-kundu14/Ecommerce-using-Stripe/assets/81622271/45dfc039-da53-4600-b300-a65b41cd5137)
+
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -20,9 +30,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/ecommerce-site.git
-   cd ecommerce-site
+    git clone https://github.com/your-username/Ecommerce-using-Stripe.git
+    cd Ecommerce-using-Stripe
 
    
 Install dependencies:
